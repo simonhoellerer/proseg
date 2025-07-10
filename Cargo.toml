@@ -29,7 +29,7 @@ debug = false
 
 [dependencies]
 arrow = "=51.0.0"
-chrono = "<0.4.41"
+chrono = "= 0.4.39"
 clap = { version = "4.3.3", features = ["derive"] }
 csv = "1.2.2"
 flate2 = "1.0.26"
